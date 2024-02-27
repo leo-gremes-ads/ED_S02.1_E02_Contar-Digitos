@@ -5,7 +5,7 @@
 
 <h2 align="center">Análise e Desenvolvimento de Sistemas</h2>
 <h3 align="center">Estrutura de Dados</h3>
-<h4>Semana 02 - Atividade pra casa</h4>
+<h4>Semana 02</h4>
 
 <h4>
   
